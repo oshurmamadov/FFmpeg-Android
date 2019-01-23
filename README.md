@@ -1,6 +1,6 @@
 Forked version
  * Removed FFprobe
- * Supports only armeabi-v7a with https protocol support
+ * Supports only armeabi-v7a with https protocol
 
 
 # FFmpeg-Android
