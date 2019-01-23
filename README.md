@@ -1,3 +1,8 @@
+Forked version
+ * Removed FFprobe
+ * Supports only armeabi-v7a with https protocol support
+
+
 # FFmpeg-Android
 [ ![Download](https://api.bintray.com/packages/bravobit/Android-FFmpeg/android-ffmpeg/images/download.svg) ](https://bintray.com/bravobit/Android-FFmpeg/android-ffmpeg/_latestVersion)
 
